@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 50px;
+    width: 50%;
+    margin-top: 0px;
+}
+.heading_2{
+    font-size: 30px;
+}
+.lol{
+    font-size: 20px;
+
+}
+.bottleheading{
+    width: 50%;
+    margin-top: 0px;
+    font-size: 30px;
+}
+canvas{
+    border: 10px solid grey;
+    box-shadow: 10px 10px 10px grey;
+margin-top: 40px;
+
+}
+
